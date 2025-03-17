@@ -2,7 +2,7 @@
 
 **`Student | Software Developer | Javascript Enjoyer`**
 
-I am an aspiring software developer with a big passion for Frontend development. Everyday I strive to learn new things and be the best version of myself. Everyday I code is a good day in my book.
+I am an aspiring software developer with a big passion for Frontend development. Everyday I strive to learn new things and be the best version of myself. A day of coding is a good day in my book.
 
 ### 🧰 Languages and Tools
 
