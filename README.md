@@ -6,7 +6,7 @@ I am an aspiring software developer with a big passion for Frontend development.
 
 ### 📊 Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeliciaMM&theme=tokyonight&langs_count=8&layout=compact&border_radius=10" alt="Leanguages I'm practicing"/>
 </p>
 
