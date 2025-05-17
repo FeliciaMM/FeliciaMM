@@ -9,9 +9,6 @@ I am an aspiring software developer with a big passion for Frontend development.
 ### 📊 Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeliciaMM&theme=tokyonight&langs_count=8&layout=compact&border_radius=10" alt="Leanguages I'm practicing"/>
-</p>
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FeliciaMM&theme=tokyonight" alt="mystreak"/>
 </p>
 
