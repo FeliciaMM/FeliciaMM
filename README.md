@@ -4,6 +4,8 @@
 
 I am an aspiring software developer with a big passion for Frontend development. Everyday I strive to learn new things and be the best version of myself. A day of coding is a good day in my book.
 </div>
+
+<div align="center">
 ### 📊 Stats
 
 <p>
@@ -26,3 +28,4 @@ I am an aspiring software developer with a big passion for Frontend development.
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <br />
+</div>
