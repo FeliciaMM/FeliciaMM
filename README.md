@@ -1,9 +1,9 @@
-# Militaru Mihaela Felicia 🔥
+<div align="center"># Militaru Mihaela Felicia 🔥
 
 **`Student | Software Developer | Javascript Enjoyer | Forced to learn Python`**
 
 I am an aspiring software developer with a big passion for Frontend development. Everyday I strive to learn new things and be the best version of myself. A day of coding is a good day in my book.
-
+</div>
 ### 📊 Stats
 
 <p>
