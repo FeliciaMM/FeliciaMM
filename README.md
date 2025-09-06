@@ -1,6 +1,6 @@
 ### Militaru Mihaela Felicia 🔥
 
-**`Student | Javascript Enjoyer | Forced to learn Python`**
+**`Student | Javascript Enjoyer | C# convict`**
 
 I am an aspiring software developer with a big passion for Frontend development. Everyday I strive to learn new things and be the best version of myself. A day of coding is a good day in my book.
 
